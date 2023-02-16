@@ -1,3 +1,7 @@
+#MANERA SIMPLE
+
+
+
 #Crea un programa en Python que 
 # simule una lista de compras. 
 # El programa debe permitir al 
